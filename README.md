@@ -1,2 +1,0 @@
-# terraform-ecs-alb
-Task 
