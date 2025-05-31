@@ -3,3 +3,8 @@
 .terraform/
 terraform.tfvars
 awscliv2.zip
+awscliv2.zip
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.crash/
